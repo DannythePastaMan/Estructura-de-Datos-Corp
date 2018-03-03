@@ -1,0 +1,3 @@
+C:/Users/dgome/CLionProjects/Arbolmangos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dgome/CLionProjects/Arbolmangos/cmake-build-debug/CMakeFiles/Arbolmangos.dir
+C:/Users/dgome/CLionProjects/Arbolmangos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
